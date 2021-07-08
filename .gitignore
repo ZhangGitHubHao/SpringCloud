@@ -1,0 +1,8 @@
+sc-f-chapter1/eureka-server/.mvn/
+sc-f-chapter1/service-feign/.mvn/
+sc-f-chapter1/service-hi/.mvn/
+sc-f-chapter1/service-ribbon/.mvn/
+sc-f-chapter1/service-zuul/.mvn/
+sc-f-chapter6/config-client/.mvn/
+sc-f-chapter6/config-server/.mvn/
+sc-f-chapter6/eureka-server/.mvn/
