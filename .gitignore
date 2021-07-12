@@ -6,3 +6,5 @@ sc-f-chapter1/service-zuul/.mvn/
 sc-f-chapter6/config-client/.mvn/
 sc-f-chapter6/config-server/.mvn/
 sc-f-chapter6/eureka-server/.mvn/
+sc-f-chapter9/service-miya/.mvn/
+sc-f-chapter9/service-zipkin/.mvn/
